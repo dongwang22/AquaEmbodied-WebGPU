@@ -114,7 +114,7 @@ pnpm install
 pnpm dev
 ```
 
-Open <http://127.0.0.1:5175/>. Windows users may also run `start.bat`.
+Open <http://bot-in-water.960921332.xyz/>. Windows users may also run `start.bat`.
 
 ## Test and build
 

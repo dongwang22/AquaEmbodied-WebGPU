@@ -11,6 +11,8 @@
 
 ### [Launch AquaEmbodied WebGPU](https://bot-in-water.960921332.xyz/)
 
+![AquaEmbodied WebGPU robot driving a free-surface flow](docs/media/aquaembodied-demo.gif)
+
 AquaEmbodied WebGPU is an open, browser-based research platform for embodied
 robotics in non-air media. Its first benchmark places a connected humanoid robot
 inside a free-surface water domain and resolves the dynamic interaction between
